@@ -1,5 +1,5 @@
 # Geeko
-Uma criptomoeda baseada na Alephium para comÃ©rcio e registro econÃ´mico.
+Uma criptomoeda baseada na Alephium para comércio e registro econômico.
 - PoW: Blake3 (Iceriver AL0).
 - Velocidade: Otimizada como Kaspa.
 - Futuro: EVM e bridges.
